@@ -1,5 +1,5 @@
 # SuperMarket-Data-Analysis
-Here market basket algorithm is used to find out the patterns and consumer behaviour in the dataset and hence understanding them for strategic development of the supermarket. 
+Here market basket algorithm is used to find out the patterns and consumer behaviour in the dataset and hence understanding the trends for strategic development of the supermarket. 
  This code is used to find the association rules between the items in supermarket.
  The supermarket can use these rules to find the combination of items sold together. Have looked for first 5 major rules in the code.
  This can help them to plan strategically of increasing item sale or location of those items.
